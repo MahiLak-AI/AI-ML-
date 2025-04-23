@@ -1,2 +1,1 @@
-# AI-ML-
-This repository has projects related to AI and ML
+This is an IMDB movie sentimental analysis 
